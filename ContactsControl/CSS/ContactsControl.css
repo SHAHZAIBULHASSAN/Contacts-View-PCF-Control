@@ -1,0 +1,110 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Table Styling */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+  }
+  
+  th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Sticky header */
+  th {
+    background-color: #0078D4;
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  th:hover {
+    background-color: #005a9e;
+  }
+  
+  /* Table Row Styling */
+  tr:nth-child(even) {
+    background-color: #f8f8f8;
+  }
+  
+  tr:hover {
+    background-color: #e6f0ff;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  /* Highlighted Search Results */
+  span.highlight {
+    font-weight: bold;
+    background-color: yellow;
+    padding: 2px 4px;
+    border-radius: 4px;
+  }
+  
+  /* Button Styles */
+  button {
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  /* Custom Modal (Fancy Pop-up) */
+  #customAlert {
+    position: fixed; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    background: white; 
+    padding: 20px; 
+    width: 320px; 
+    border-radius: 12px;
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.3); 
+    text-align: center;
+    z-index: 1000; 
+    opacity: 0; 
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  #customAlert h3 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  #customAlert p {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  #customAlert button {
+    background-color: #0078D4;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-top: 10px;
+    transition: background 0.3s ease-in-out;
+  }
+  
+  #customAlert button:hover {
+    background-color: #005a9e;
+  }
+  
