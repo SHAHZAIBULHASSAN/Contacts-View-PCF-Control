@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5AZ5buk3iV8ruRDn10wuZD9wZyAraKmWw2CA81bO7cWG2uKY9dgA5ozyK09SF+OKy6xcJw88DfimM/xjvtvPPg==",
+  "success": true,
+  "projectFilePath": "D:\\PCF Development\\ContactsDatasetControl\\Solution\\Solution.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SHAHZAIB.SAFDAR\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\SHAHZAIB.SAFDAR\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\SHAHZAIB.SAFDAR\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.40.4\\microsoft.powerapps.msbuild.pcf.1.40.4.nupkg.sha512",
+    "C:\\Users\\SHAHZAIB.SAFDAR\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.40.4\\microsoft.powerapps.msbuild.solution.1.40.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+D:\PCF Development\ContactsDatasetControl\Solution\obj\Debug\Solution.cdsproj.AssemblyReference.cache
+D:\PCF Development\ContactsDatasetControl\Solution\obj\Debug\Solution.cdsproj.CoreCompileInputs.cache

@@ -1,0 +1,20 @@
+2025-03-16 21:05:23.450 - Info	
+Packing D:\PCF Development\ContactsDatasetControl\Solution\obj\Debug\Metadata to bin\Debug\Solution.zip
+
+2025-03-16 21:05:23.471 - Info	Processing Component: Entities
+2025-03-16 21:05:23.477 - Info	Processing Component: Roles
+2025-03-16 21:05:23.480 - Info	Processing Component: Workflows
+2025-03-16 21:05:23.481 - Info	Processing Component: FieldSecurityProfiles
+2025-03-16 21:05:23.482 - Info	Processing Component: Templates
+2025-03-16 21:05:23.483 - Info	Processing Component: EntityMaps
+2025-03-16 21:05:23.484 - Info	Processing Component: EntityRelationships
+2025-03-16 21:05:23.487 - Info	Processing Component: OrganizationSettings
+2025-03-16 21:05:23.487 - Info	Processing Component: optionsets
+2025-03-16 21:05:23.488 - Info	Processing Component: CustomControls
+2025-03-16 21:05:23.499 - Info	 - ContactDetails.ContactsControl
+2025-03-16 21:05:23.504 - Info	Processing Component: SolutionPluginAssemblies
+2025-03-16 21:05:23.505 - Info	Processing Component: EntityDataProviders
+2025-03-16 21:05:23.512 - Info	Processing Sharded Component Files
+2025-03-16 21:05:23.581 - Info	
+Unmanaged Pack complete.
+

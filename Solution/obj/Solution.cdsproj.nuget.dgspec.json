@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PCF Development\\ContactsDatasetControl\\Solution\\Solution.cdsproj": {}
+  },
+  "projects": {
+    "D:\\PCF Development\\ContactsDatasetControl\\ContactsDatasetControl.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PCF Development\\ContactsDatasetControl\\ContactsDatasetControl.pcfproj",
+        "projectName": "ContactsDatasetControl",
+        "projectPath": "D:\\PCF Development\\ContactsDatasetControl\\ContactsDatasetControl.pcfproj",
+        "packagesPath": "C:\\Users\\SHAHZAIB.SAFDAR\\.nuget\\packages\\",
+        "outputPath": "D:\\PCF Development\\ContactsDatasetControl\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SHAHZAIB.SAFDAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    },
+    "D:\\PCF Development\\ContactsDatasetControl\\Solution\\Solution.cdsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PCF Development\\ContactsDatasetControl\\Solution\\Solution.cdsproj",
+        "projectName": "Solution",
+        "projectPath": "D:\\PCF Development\\ContactsDatasetControl\\Solution\\Solution.cdsproj",
+        "packagesPath": "C:\\Users\\SHAHZAIB.SAFDAR\\.nuget\\packages\\",
+        "outputPath": "D:\\PCF Development\\ContactsDatasetControl\\Solution\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SHAHZAIB.SAFDAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {
+              "D:\\PCF Development\\ContactsDatasetControl\\ContactsDatasetControl.pcfproj": {
+                "projectPath": "D:\\PCF Development\\ContactsDatasetControl\\ContactsDatasetControl.pcfproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Solution": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
